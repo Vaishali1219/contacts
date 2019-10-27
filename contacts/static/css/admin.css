@@ -1,0 +1,15 @@
+#header {
+    background-color: #29a7a6 !important;
+    color: white;
+}
+
+#head{
+    color: white !important;
+    font-weight: bold !important;
+    /*font-family: Courier New, Courier, monospace;*/
+}
+
+.breadcrumbs, h2, [type="submit"], caption {
+    background-color: #07bdbde1 !important;
+    color: white;
+}
